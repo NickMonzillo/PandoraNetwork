@@ -6,4 +6,4 @@ Start with "Four Year Strong" radio. Obtain 5 data points and then listen to the
 Navigate to different radios based on the frequency of appearances. 
 Thick lines represent a strong relationship between data points. (Each artist appeared in the other's radio.) 
 
-Code addapted from Mike Bostock's blog: http://bl.ocks.org/mbostock/2706022
+Code adapted from Mike Bostock's blog: http://bl.ocks.org/mbostock/2706022
